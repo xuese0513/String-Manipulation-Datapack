@@ -1,4 +1,4 @@
-# String Manipulation Datapack
+# String Manipulation Datapack v0.1
 
 - **Author:** 雪色(XueSe)
 - **Version:** Java Edition - 1.19.4 Pre-Release 3
