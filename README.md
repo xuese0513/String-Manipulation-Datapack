@@ -1,7 +1,7 @@
 # String Manipulation Datapack
 
-author. 雪色(XueSe)
-version. Java Edition - 1.19.4 Pre-Release 3
+- **Author:** 雪色(XueSe)
+- **Version:** Java Edition - 1.19.4 Pre-Release 3
 
 ---
 
