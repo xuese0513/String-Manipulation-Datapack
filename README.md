@@ -15,6 +15,6 @@
 
 # Installation
 
-1. Copy folder "String Manipulation" under path "(map-save-folder)/datapacks"
+1. Copy folder "String Manipulation" to path "(map-save-folder)/datapacks"
 2. Type command: "/reload" then "/function string:setup"
 3. Run the example: "/function string:examples/multicase"
